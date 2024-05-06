@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ac34cbe195c88e42a060b5ce85340ca, type: 3}
+  m_Name: Carbon Law
+  m_EditorClassIdentifier: 
+  cardName: Carbon Law
+  cardSprite: {fileID: 21300000, guid: 7b2d8e45783d5644e8ecac202e0fa894, type: 3}
+  particlePrefab: {fileID: 100006, guid: 8fc06027b01064e4f885fd8dd2929310, type: 3}
+  explanation: With this law, carbon usage worldwide is reduced.
+  cardValue: 53
+  cardType: 0
+  blue: {fileID: 21300000, guid: c73ea58ec7f30614cbfbd647d79b0e63, type: 3}
+  red: {fileID: 21300000, guid: 6f5bf2eb2d3ac954b88aefa38cdec314, type: 3}

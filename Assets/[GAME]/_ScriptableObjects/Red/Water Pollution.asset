@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ac34cbe195c88e42a060b5ce85340ca, type: 3}
+  m_Name: Water Pollution
+  m_EditorClassIdentifier: 
+  cardName: Water Pollution
+  cardSprite: {fileID: 21300000, guid: 468915dcc1ee84c449cd6e2e842af824, type: 3}
+  particlePrefab: {fileID: 1269120730060968, guid: ae20ac2f5bbaea543a557a4a46b31a65, type: 3}
+  explanation: Human health is affected due to pollution in drinking water.
+  cardValue: -62
+  cardType: 1
+  blue: {fileID: 21300000, guid: c73ea58ec7f30614cbfbd647d79b0e63, type: 3}
+  red: {fileID: 21300000, guid: 6f5bf2eb2d3ac954b88aefa38cdec314, type: 3}
